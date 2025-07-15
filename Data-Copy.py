@@ -12,7 +12,7 @@ Output = r"N:\Output2"
 
 line = "#" * 80
 
-Start = input("Would You Like to Start? \n".lower)
+Start = input("Would You Like to Start? \n").lower()
 
 
 
